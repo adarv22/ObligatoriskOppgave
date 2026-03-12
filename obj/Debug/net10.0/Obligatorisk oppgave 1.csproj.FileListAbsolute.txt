@@ -1,0 +1,14 @@
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/bin/Debug/net10.0/Obligatorisk oppgave 1
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/bin/Debug/net10.0/Obligatorisk oppgave 1.deps.json
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/bin/Debug/net10.0/Obligatorisk oppgave 1.runtimeconfig.json
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/bin/Debug/net10.0/Obligatorisk oppgave 1.dll
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/bin/Debug/net10.0/Obligatorisk oppgave 1.pdb
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.AssemblyInfoInputs.cache
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.AssemblyInfo.cs
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.csproj.CoreCompileInputs.cache
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.dll
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/refint/Obligatorisk oppgave 1.dll
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.pdb
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/Obligatorisk oppgave 1.genruntimeconfig.cache
+/Users/ada/Documents/Code/c#/Obligatorisk oppgave 1/obj/Debug/net10.0/ref/Obligatorisk oppgave 1.dll

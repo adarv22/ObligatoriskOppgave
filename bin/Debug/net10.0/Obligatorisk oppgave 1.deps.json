@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Obligatorisk oppgave 1/1.0.0": {
+        "runtime": {
+          "Obligatorisk oppgave 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obligatorisk oppgave 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
