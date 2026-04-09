@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Obligatorisk oppgave 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b59d964254a0974b15e8bfc68796be7f1c305be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+258360902b270128e5498f4e4f3ce2b31829f40b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Obligatorisk oppgave 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obligatorisk oppgave 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,4 +8,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ObligatoriskOppgave1.Tests/**/*.cs" />
+  </ItemGroup>
 </Project>
